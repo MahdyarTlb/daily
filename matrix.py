@@ -1,6 +1,3 @@
-import random
-
-
 def matrix_recursive(matrix):
     
     ## O(n!)
